@@ -2,6 +2,9 @@
   "name": "quanlydulichapp",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "v16.13.2"
+  },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
