@@ -1,1 +1,2 @@
-node:web server/index.js
+release: python manage.py migrate
+web: gunicorn backend.wsgi --log-file -
